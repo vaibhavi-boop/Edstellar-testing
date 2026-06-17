@@ -5,7 +5,7 @@ export const learningStrategyData = {
     "Learning Strategy & Design",
   ],
   titleHighlight: "Learning Strategy Design",
-  titleRest: "for Enterprises",
+  titleRest: "for Enterprises Services",
   description: "Your L&D budget should fund measurable business outcomes...",
   features: [
     "14+ Years Enterprise L&D Experience",
@@ -19,7 +19,7 @@ export const learningStrategyData = {
 export const capabilityAssessmentData = {
   breadcrumb: [
     "Home",
-    "Learning & Development Consulting",
+    "Learning & Development Consulting Services",
     "Capability Assessment",
   ],
   titleHighlight: "Capability Assessment",
